@@ -14,7 +14,7 @@ Make sure you have the following:
 
 ---
 
-## 📦 Step 1: Install Argo CD
+## 📦 Step : Install Argo CD
 
 ```bash
 kubectl create namespace argocd

@@ -1,11 +1,10 @@
-**** Note: This project is a fork of opentelemetry-demo. Thanks to the team and contributors for opensourcing this wonderful demo project. Definitely one of the best on internet.
+# Note: This project is a fork of opentelemetry-demo. Thanks to the team and contributors for opensourcing this wonderful demo project. Definitely one of the best on internet.
 
-**** This project has multiple microservice running in EKS Cluster but to create CI-CD Pipeline for all microservie .I just created pipeline for one of the microservice named
-  product-catalog to present my test infront of you.
-
+# This project has multiple microservice running in EKS Cluster but to create CI-CD Pipeline for all microservie .I just created pipeline for one of the microservice named product-catalog to present my test infront of you.
 
 
-**** Steps -:
+
+# Steps -:
 
 1. Implement continuous integration for the project
 2. GitHub Actions setup for a micro service of the project
@@ -97,4 +96,7 @@ DOCKER_TOKEN	        Docker Hub access token
 GITHUB_TOKEN	        GitHub Actions token (auto-injected)
 
 **** Note -: These secrets are created in github insdie repository settings under Secrets and Variables.
+
+Pipeline Link to verify CI working end to end till updating K8S Manifest in repostiory
+https://github.com/akumar-new/Ecommerce-DevOps-Pipeline/actions/runs/16695944663
 

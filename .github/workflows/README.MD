@@ -1,6 +1,6 @@
 # Note: This project is a fork of opentelemetry-demo. Thanks to the team and contributors for opensourcing this wonderful demo project. Definitely one of the best on internet.
 
-# This project has multiple microservice running in EKS Cluster but to create CI-CD Pipeline for all microservie .I just created pipeline for one of the microservice named product-catalog to present my test infront of you.
+# This project has multiple microservice running in EKS Cluster  .I just created CI CD pipeline for one of the microservice named product-catalog to present my test infront of you.
 
 
 
